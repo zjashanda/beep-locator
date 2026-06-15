@@ -1,0 +1,7 @@
+interface:
+  display_name: "蜂鸣定位"
+  short_description: "定位固定频率双蜂鸣时间点并写结果"
+  default_prompt: "Use $beep-locator to locate fixed-frequency beep marker positions in the provided audio and write concise time-point results beside the audio file."
+
+policy:
+  allow_implicit_invocation: true
